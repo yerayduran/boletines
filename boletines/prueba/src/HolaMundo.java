@@ -4,9 +4,9 @@ public class HolaMundo {
     public static void main(String[] args) {
         System.out.println("Introduce tu nombre: ");
 
-        Scanner sc = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
-        String nombre = sc.nextLine();
+        String nombre = scanner.nextLine();
 
         System.out.println("Hola " + nombre);
     }
