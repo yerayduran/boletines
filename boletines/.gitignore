@@ -25,72 +25,72 @@
 # IntelliJ IDEA editor files and settings
 
 # IntelliJ IDEA and Other JetBrains IDEs
-.idea/
+Tema 1/.idea/
 *.iml
 *.iws
 *.ipr
 
 .idea_modules/
 out/
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/dictionaries
+Tema 1/.idea/workspace.xml
+Tema 1/.idea/tasks.xml
+Tema 1/.idea/dictionaries
 
-.idea/shelf/
-.idea/contentModel.xml
-.idea/dataSources/
-.idea/dataSources.xml
-.idea/dataSources.ids
+Tema 1/.idea/shelf/
+Tema 1/.idea/contentModel.xml
+Tema 1/.idea/dataSources/
+Tema 1/.idea/dataSources.xml
+Tema 1/.idea/dataSources.ids
 
-.idea/dataSources.local.xml
-.idea/sqlDataSources.xml
-.idea/dynamic.xml
-.idea/uiDesigner.xml
-.idea/gradle.xml
+Tema 1/.idea/dataSources.local.xml
+Tema 1/.idea/sqlDataSources.xml
+Tema 1/.idea/dynamic.xml
+Tema 1/.idea/uiDesigner.xml
+Tema 1/.idea/gradle.xml
 
-.idea/libraries
-.idea/deployment.xml
-.idea/mongoSettings.xml
-.idea/httpRequests
-.idea/caches/
+Tema 1/.idea/libraries
+Tema 1/.idea/deployment.xml
+Tema 1/.idea/mongoSettings.xml
+Tema 1/.idea/httpRequests
+Tema 1/.idea/caches/
 
-.idea/modules.xml
-.idea/compiler.xml
-.idea/jarRepositories.xml
-.idea/artifacts
-.idea/sonarlint/
+Tema 1/.idea/modules.xml
+Tema 1/.idea/compiler.xml
+Tema 1/.idea/jarRepositories.xml
+Tema 1/.idea/artifacts
+Tema 1/.idea/sonarlint/
 
 *.iml.bak
 *.ipr.bak
 *.iws.bak
 .idea_backup/
-.idea/replstate.xml
+Tema 1/.idea/replstate.xml
 
-.idea/checkstyle-idea.xml
-.idea/encodings.xml
-.idea/misc.xml
-.idea/vcs.xml
-.idea/jsLibraryMappings.xml
+Tema 1/.idea/checkstyle-idea.xml
+Tema 1/.idea/encodings.xml
+Tema 1/.idea/misc.xml
+Tema 1/.idea/vcs.xml
+Tema 1/.idea/jsLibraryMappings.xml
 
-.idea/assetWizardSettings.xml
-.idea/kotlinc.xml
-.idea/inspectionProfiles/
-.idea/codestream.xml
-.idea/aws.xml
+Tema 1/.idea/assetWizardSettings.xml
+Tema 1/.idea/kotlinc.xml
+Tema 1/.idea/inspectionProfiles/
+Tema 1/.idea/codestream.xml
+Tema 1/.idea/aws.xml
 
-.idea/sonarIssues.xml
-.idea/.gitignore
-.idea/remote-mappings.xml
-.idea/**/usage.statistics.xml
-.idea/**/contentModel.xml
+Tema 1/.idea/sonarIssues.xml
+Tema 1/.idea/.gitignore
+Tema 1/.idea/remote-mappings.xml
+Tema 1/.idea/**/usage.statistics.xml
+Tema 1/.idea/**/contentModel.xml
 
-.idea/**/dbnavigator.xml
-.idea/**/markdown-navigator.xml
-.idea/**/markdown-navigator-enh.xml
-.idea/**/markdown-navigator/
-.idea/$CACHE_FILE$
+Tema 1/.idea/**/dbnavigator.xml
+Tema 1/.idea/**/markdown-navigator.xml
+Tema 1/.idea/**/markdown-navigator-enh.xml
+Tema 1/.idea/**/markdown-navigator/
+Tema 1/.idea/$CACHE_FILE$
 
-.idea/**/azureSettings.xml
+Tema 1/.idea/**/azureSettings.xml
 com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
