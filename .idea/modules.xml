@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boletines/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/boletines/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boletines/EjercicioBucleDo-While/EjercicioBucleDo-While.iml" filepath="$PROJECT_DIR$/boletines/EjercicioBucleDo-While/EjercicioBucleDo-While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boletines/EjercicioBucleFor/EjercicioBucleFor.iml" filepath="$PROJECT_DIR$/boletines/EjercicioBucleFor/EjercicioBucleFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boletines/EjercicioBucleWhile/EjercicioBucleWhile.iml" filepath="$PROJECT_DIR$/boletines/EjercicioBucleWhile/EjercicioBucleWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boletines/HolaMundo/HolaMundo.iml" filepath="$PROJECT_DIR$/boletines/HolaMundo/HolaMundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boletines/Relacion1.2/Relacion1.2.iml" filepath="$PROJECT_DIR$/boletines/Relacion1.2/Relacion1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/boletines.iml" filepath="$PROJECT_DIR$/.idea/boletines.iml" />
+    </modules>
+  </component>
+</project>
