@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Contraseña {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String contrasenaCorrecta = "1DAM";  //es la contraseña correcta y la clase que estamos
+        String contrasenaCorrecta = "1DAM";  //es la contraseña correcta es la clase que estamos
         String contrasenaIngresada;
 
         do {

@@ -11,12 +11,15 @@ public class Ejercicio7{
             cantidad = scanner.nextInt();
         } while (cantidad <= 0);
 
+
         int suma = 0;
+
 
         for (int i = 1; i <= cantidad; i++) {
             System.out.print("Número " + i + ": ");
             suma += scanner.nextInt();
         }
+
 
         double media = (double) suma / cantidad;
         System.out.println("La media es: " + media);
