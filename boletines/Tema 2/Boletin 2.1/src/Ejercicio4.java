@@ -6,7 +6,7 @@ public class Ejercicio4 {
 
 
 
-        int numeroSecreto = (int)(Math.random() * 100) + 1;
+        int numeroSecreto = (int)(Math.random() * 100 + 1);
         int intentos = 0;
         final int MAX_INTENTOS = 5;
         boolean acertado = false;
