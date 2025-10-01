@@ -4,27 +4,51 @@ public class Ejercicio1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int num1, num2, num3;
 
-        System.out.println("Introduce un número: ");
-        num1 = scanner.nextInt();
-        System.out.println("Introduce un número: ");
-        num2 = scanner.nextInt();
-        System.out.println("Introduce un número: ");
-        num3 = scanner.nextInt();
+        System.out.print("Introduce el primer número: ");
+        int a = scanner.nextInt();
 
-        if (num1 > num2 && num2 > num3){
-            System.out.println("El orden menor a mayor es: " + num3 " > " + num2 " > " + num1);
-        }
-        if (num1 > num3 && num2 > num1){
-            System.out.println("El orden menor a mayor es: " + num3 " > " + num2 " > " + num1);
-        }
-        if (num2 > num1 && num1 > num3){
-            System.out.println("El orden menor a mayor es: " + num3 " > " + num1 " > " + num2);
-        }
-        if (num2 > num3 && num1 > num2){
-            System.out.println("El orden menor a mayor es: " + num3 " > " + num2 " > " + num1);
+        System.out.print("Introduce el segundo número: ");
+        int b = scanner.nextInt();
+
+        System.out.print("Introduce el tercer número: ");
+        int c = scanner.nextInt();
+
+
+        int menor, medio, mayor;
+
+
+        if (a <= b && a <= c) {
+            menor = a;
+            if (b <= c) {
+                medio = b;
+                mayor = c;
+            } else {
+                medio = c;
+                mayor = b;
+            }
+        } else if (b <= a && b <= c) {
+            menor = b;
+            if (a <= c) {
+                medio = a;
+                mayor = c;
+            } else {
+                medio = c;
+                mayor = a;
+            }
+        } else {
+            menor = c;
+            if (a <= b) {
+                medio = a;
+                mayor = b;
+            } else {
+                medio = b;
+                mayor = a;
+            }
         }
 
+
+        System.out.println("Números ordenados de menor a mayor:");
+        System.out.println(menor + ", " + medio + ", " + mayor);
     }
 }
