@@ -10,6 +10,9 @@ public class Ejercicio9{
             numero = scanner.nextInt();
         } while (numero <= 0);
 
+        //Formula de numero perfecto 2^(n-1) x ( 2^n - 1 )
+
+
         int suma = 0;
         for (int i = 1; i < numero; i++) {
             if (numero % i == 0) suma += i;
