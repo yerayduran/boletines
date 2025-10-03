@@ -17,7 +17,7 @@ public class Ejercicio4 {
 
 
         while (intentos < MAX_INTENTOS && !acertado) {
-            System.out.print("Introduce tu intento #" + (intentos + 1) + ": ");
+            System.out.print("Introduce tu intento " + (intentos + 1) + "/5 : ");
             int numeroUsuario = scanner.nextInt();
 
 
