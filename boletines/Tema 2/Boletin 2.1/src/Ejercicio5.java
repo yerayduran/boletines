@@ -12,14 +12,14 @@ public class Ejercicio5 {
         if (num < 2) {
             System.out.println(num + " no es primo.");
         } else {
-            boolean esPrimo = true;
+            boolean Primo = true;
             for (int i = 2; i <= Math.sqrt(num); i++) {
                 if (num % i == 0) {
-                    esPrimo = false;
+                    Primo = false;
                     break;
                 }
             }
-            if (esPrimo) {
+            if (Primo) {
                 System.out.println(num + " es primo.");
             } else {
                 System.out.println(num + " no es primo.");
